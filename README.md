@@ -18,7 +18,7 @@ Usage
 -------------
 To view the live demo go to https://kaneru-soju.github.io/
 
-To use this page as your homepage, go to my arch-setup repository and use those files instead
+To use this page as your homepage or new tab, go to my arch-setup repository and use those files instead
 
 Open an issue if you need help or contact me at:  
 kaneru#7341 on discord
