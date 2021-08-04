@@ -16,7 +16,7 @@ Preview
 
 Usage
 -------------
-To view the live demo go to 
+To view the live demo go to https://kaneru-soju.github.io/
 
 To use this page as your homepage, go to my arch-setup repository and use those files instead
 
